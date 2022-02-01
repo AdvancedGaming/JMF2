@@ -1,0 +1,15 @@
+{
+    "botToken": "OTIzMjgxOTg0NDY4NDQzMTU2.YcNvWg.HRNCJnawpe3gCTsKuKz2dCzwOos",
+    "guildId": "906259606303572029",
+    "adminChannelId": "923284833961140264",
+    "moderatorRoleId": "923283806105006093",
+    "tradingChannelId": "923284126868570132",
+    "coinFlipChannelId": "923284108480774154",
+    "commandsChannelId": "923283874023342141",
+    "giveawayPingRoleId": "908573012905828382",
+    "appCheckToken": "TOKEN_HERE",
+    "madfutEmail": "traxfut123@gmail.com",
+    "madfutPassword": "ali12pay123de",
+    "shoppySecret": "SECRET_HERE",
+    "shopLogChannelId": "CHANNEL_ID_HERE"
+}

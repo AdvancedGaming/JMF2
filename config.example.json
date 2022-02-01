@@ -1,0 +1,15 @@
+{
+    "botToken": "BOT_TOKEN_HERE",
+    "guildId": "GUILD_ID_HERE",
+    "adminChannelId": "CHANNEL_ID_HERE",
+    "moderatorRoleId": "ROLE_ID_HERE",
+    "tradingChannelId": "CHANNEL_ID_HERE",
+    "coinFlipChannelId": "CHANNEL_ID_HERE",
+    "commandsChannelId": "CHANNEL_ID_HERE",
+    "giveawayPingRoleId": "ROLE_ID_HERE",
+    "appCheckToken": "TOKEN_HERE",
+    "madfutEmail": "EMAIL_HERE",
+    "madfutPassword": "PASSWORD_HERE",
+    "shoppySecret": "SECRET_HERE",
+    "shopLogChannelId": "CHANNEL_ID_HERE"
+}
