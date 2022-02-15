@@ -1,3 +1,0 @@
-telebot
-datetime
-discord

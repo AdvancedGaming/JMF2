@@ -1,15 +1,15 @@
 {
-    "botToken": "OTIzMjgxOTg0NDY4NDQzMTU2.YcNvWg.HRNCJnawpe3gCTsKuKz2dCzwOos",
-    "guildId": "906259606303572029",
-    "adminChannelId": "923284833961140264",
-    "moderatorRoleId": "923283806105006093",
-    "tradingChannelId": "923284126868570132",
-    "coinFlipChannelId": "923284108480774154",
-    "commandsChannelId": "923283874023342141",
-    "giveawayPingRoleId": "908573012905828382",
-    "appCheckToken": "TOKEN_HERE",
+    "botToken": "OTQyMTMwNTIwODIzODMyNjc4.YggBbA.YeGbWzxg1NaB4O08WGvjm_Qi3HI",
+    "guildId": "942129991414583306",
+    "adminChannelId": "942479721055268934",
+    "moderatorRoleId": "942479645541007470",
+    "tradingChannelId": "942479727627739136",
+    "coinFlipChannelId": "942479725295710248",
+    "commandsChannelId": "942479726449131571",
+    "giveawayPingRoleId": "942479667443671070",
+    "appCheckToken": "eyJraWQiOiJsWUJXVmciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOjg3MTg0MzI2MTczMDphbmRyb2lkOjg4MGI5NWJhOWIwY2I2YWIxMDA5N2IiLCJhdWQiOlsicHJvamVjdHNcLzg3MTg0MzI2MTczMCIsInByb2plY3RzXC9tYWRmdXQtMjIiXSwiaXNzIjoiaHR0cHM6XC9cL2ZpcmViYXNlYXBwY2hlY2suZ29vZ2xlYXBpcy5jb21cLzg3MTg0MzI2MTczMCIsImV4cCI6MTY0NDkzOTI5OCwiaWF0IjoxNjQ0NDIwODk4fQ.kzB3U90KA2jrh3514inWVqB6r079fKLdxZbz0OFbu4volNLGJMZKRSJJYzXVXPoziCpM9I4vcQLDxmYZrL8eZGg5PszYy2oWXTNMA1K5yad8i6pqji7vMZdsO5uXhxPVNfBaZJv_wPUNC3UujvkJRFlzpEHK9bOZXZCNApe7NU9HTicIGs2zY0ojg0hEWttM4QB7Ptthh3FFqE3TuZ4Los94rTAJLHYjKx8l2nZ7X58shtrCMEJ4PWofiyT9FCZdBzJwaF0TXQGuoMCM6kl8f7oa74q53s-dLp5gtrt2kFWlBNLid1fHaAVpLJLQ-XS2M0TqsZBzc2eQuqa-JJqCak6e7J8jHyRJqOjYwS9TUKz8m2XhCJDf6K69FU82JKlUFDhyhMGa4wx7TFguV6kGdyQ-FJ7nH4RssRHL1cQDHVD_-0fj0KEmJDEf6W8a_7xSzqQ5dhQoADtkcIjDK2er-JrlEOwb4oVgaiqgSFaUbImeSZdG0dcLK7w7-NZylVvJ",
     "madfutEmail": "traxfut123@gmail.com",
     "madfutPassword": "ali12pay123de",
-    "shoppySecret": "SECRET_HERE",
-    "shopLogChannelId": "CHANNEL_ID_HERE"
+    "shoppySecret": "",
+    "shopLogChannelId": ""
 }

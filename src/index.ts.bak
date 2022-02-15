@@ -18,10 +18,10 @@ type WalletVerificationResult = {
 }
 
 let packs: Max3Array<{pack: string, amount: number}> = [
-    {pack: "query, @madfut Galore on Discord -1+ NEW pack,,64,100,-1,-1,-1,false,100", amount: 1},
-    {pack: "query, @madfut Galore on Discord 94+ NEW pack,,97,100,-1,-1,-1,false,100", amount: 1},
+    {pack: "bf_94_special", amount: 1},
+    {pack: "bf_93_special", amount: 1},
     // "query,madfut_icon,,64,100,-1,-1,-1,false,100"
-    {pack: "query, @madfut Galore on Discord 90+ NEW pack,,94,100,-1,-1,-1,false,100", amount: 1},
+    {pack: "bf_92_special", amount: 1},
 ];
 
 const madfutClient = new MadfutClient(config.appCheckToken);

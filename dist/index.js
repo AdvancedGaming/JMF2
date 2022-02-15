@@ -291,7 +291,7 @@ bot.on("wallet", async (interaction, page)=>{
             {
                 color: 3319890,
                 author: {
-                    name: `${interaction.member.username}'s Madfut Galore wallet (page ${page}/${numPages})`,
+                    name: `${interaction.member.username}'s JMF wallet (page ${page}/${numPages})`,
                     icon_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wallet_Flat_Icon.svg/240px-Wallet_Flat_Icon.svg.png"
                 },
                 description: "Your wallet is shown below.",
@@ -327,8 +327,8 @@ bot.on("deposit", async (interaction, multiple)=>{
     try {
         do {
             let tradeRef;
+            tradeRef = await madfutClient.inviteWithTimeout(username, 60000, "JMF Wallet deposit");
             try {
-                tradeRef = await madfutClient.inviteWithTimeout(username, 60000, "Madfut Galore Wallet deposit");
             } catch (err) {
                 if (!multiple) interaction.editOriginalMessage("You failed to accept the invite in time.");
                 return;
@@ -388,7 +388,7 @@ async function withdraw(interaction, userId, username, coins, walletVerification
         ]
     });
     while(coinsToGive > 0 || cardsToGive.size > 0 || packsToGive.size > 0){
-        const tradeRef = await madfutClient.inviteWithTimeout(username, 60000, "Madfut Galore Wallet withdrawal");
+        const tradeRef = await madfutClient.inviteWithTimeout(username, 60000, "JMF Wallet withdrawal");
         const giveCoins = Math.min(10000000, coinsToGive);
         const giveCards = [];
         for (const card1 of cardsToGive){
@@ -1187,7 +1187,7 @@ async function giveawayTrade(username) {
     while(giveawayRunning){
         let tradeRef;
         try {
-            tradeRef = await madfutClient.inviteWithTimeout(username, 60000, "Madfut Madfut Galore giveaway 🎉");
+            tradeRef = await madfutClient.inviteWithTimeout(username, 60000, "JMF  giveaway 🎉");
         } catch  {
             console.log(`${username} rejected invite or timed out.`);
             break;
